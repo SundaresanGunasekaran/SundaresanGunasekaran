@@ -5,6 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SundaresanGunasekaran" alt="SundaresanGunasekaran" /></a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SundaresanGunasekaran&show_icons=true&locale=en" alt="SundaresanGunasekaran" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SundaresanGunasekaran\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SundaresanGunasekaran&" alt="SundaresanGunasekaran" /></p>
